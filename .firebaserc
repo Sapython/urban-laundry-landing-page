@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "urbanlaundry"
+  },
+  "targets": {
+    "urbanlaundry": {
+      "hosting": {
+        "urbanlaundry": [
+          "urbanlaundry"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
